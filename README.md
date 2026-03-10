@@ -2,7 +2,7 @@
 > Raycasting-Based 3D Game Engine
 > - Built a 3D game engine from scratch using raycasting techniques (inspired by Wolfenstein 3D)
 > - Implemented texture mapping, wall rendering, sprite management, and collision detection
-> - Developed real-time graphics rendering and player controls in C with MinilibX
+> - Developed real-time graphics rendering and player controls in C with MLX42
 > - Parsed custom map files to generate dynamic 3D environments
 
 
